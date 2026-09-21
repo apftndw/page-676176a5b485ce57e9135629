@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "59c200c4642b1704cd0a72c8",
+  "owner": "apftndw",
+  "repo": "page-676176a5b485ce57e9135629",
+  "title": "养鸡场(XFSS)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "676176a5b485ce57e9135629",
+      "a": "养鸡场(XFSS)",
+      "b": "2027官方最新地址导航",
+      "entity": "养鸡场(XFSS)",
+      "brand": "养鸡场(XFSS)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b4bf8ea0aa82de9304a5a59dc818e47346ed80bdcaa1076ab6bbb6d76ff9e06a",
+      "content": {
+        "primary_entity": "养鸡场(XFSS)",
+        "keyword1": "养鸡场(XFSS)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选订阅客户端，完成配置后即可连接使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，依照客户端文档导入订阅，即可开始使用海外加速服务。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应每月100GB、300GB与1000GB流量，支持3台、5台与20台设备同时在线。旗舰版与团队版覆盖全节点原生流媒体解锁、IPLC专线游戏加速优化及高带宽节点，年付可享优惠价格。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路品质三个角度，找到匹配日常使用的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐差异与选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合单人轻量浏览；旗舰版每月300GB、5台设备，适合多设备并行。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供全节点原生流媒体解锁和IPLC专线游戏加速优化，团队版额外支持企业定制路由。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版¥150、旗舰版¥350、团队版¥850，长期使用建议直接选择年付方案。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路品质差异",
+          "AI_FEATURE_TITLE_3": "计费周期选择",
+          "AI_GUIDE_INTRO": "按照选服务、查适配、配订阅的顺序，几步完成接入准备。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "养鸡场(XFSS)提供多档海外加速订阅，覆盖轻量浏览、多设备并行与团队协作场景。根据流量需求与设备数量选择基础版、旗舰版或团队版，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅匹配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖3至20台设备",
+          "AI_HIGHLIGHT_2": "支持流媒体解锁与专线加速",
+          "AI_HIGHLIGHT_3": "年付方案享更优价格",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体需求，团队版面向高流量与协作场景；可对比流量、设备数与线路品质后决定。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，从基础版、旗舰版或团队版中选定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路特性，确认是否满足流媒体或游戏加速要求。",
+          "AI_STEP_TEXT_3": "在对应设备上安装订阅客户端，依照客户端文档导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "养鸡场(XFSS)海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐可以中途升级或降级吗？",
+          "AI_FAQ_ANSWER_1": "订阅周期内通常不支持直接变更套餐，建议在新周期开始前选择更合适的档位，具体可咨询客户服务。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "同一时间连接到节点的设备总数不能超过套餐标明的数量，基础版3台、旗舰版5台、团队版20台。",
+          "AI_FAQ_QUESTION_3": "年付相比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "按年付的价格约为十个月月付费用，相当于节省两个月开支，长期使用选择年付更经济。",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点线路有何区别？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版增加IPLC专线并优化游戏加速，团队版提供VIP专属高带宽节点。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "购买后获取订阅链接，在客户端中选择从链接导入或手动粘贴，按客户端文档提示完成配置即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rvszmjz.cn",
+    "host": "rvszmjz.cn"
+  },
+  "file_hashes": {
+    "index.html": "f709d6ef3cc1b46c0b7c31c47532c17dfab83b22e8afa01a742d63d4edf3806e",
+    "sitemap.xml": "c863a063d37bd39a1584899306dfdccbd165d98516f6c24942707c39ee444fdf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5f994e87dd44ff458c94acaf1eb53477f3dc2c9efbb675436731fe192320cc90",
+    "robots.txt": "ba3161774f9ef77aaeb68d6e740a55e0f7a87c246e74bfe629ef6b54b7b4a272",
+    "f94d24f48eb38c0a0b92c8e4a684bb38.txt": "44773232d079711acd82b859de7097b10a65ec4546d424ece45263d2b1aa07e8"
+  },
+  "revision": "175e6767cdf3fd544f10b859aea69712343fec495532a620cf63371a5b4ef284"
+}
